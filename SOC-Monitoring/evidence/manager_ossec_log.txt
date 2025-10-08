@@ -1,0 +1,19 @@
+2025/10/08 01:33:48 wazuh-monitord: INFO: Starting new log after rotation.
+2025/10/08 01:33:51 wazuh-syscheckd: INFO: (6009): File integrity monitoring scan ended.
+2025/10/08 01:35:03 rootcheck: INFO: Ending rootcheck scan.
+2025/10/08 02:19:04 wazuh-modulesd:syscollector: INFO: Starting evaluation.
+2025/10/08 02:19:07 wazuh-modulesd:syscollector: INFO: Evaluation finished.
+2025/10/08 03:19:08 wazuh-modulesd:syscollector: INFO: Starting evaluation.
+2025/10/08 03:19:12 wazuh-modulesd:syscollector: INFO: Evaluation finished.
+2025/10/08 04:19:12 wazuh-modulesd:syscollector: INFO: Starting evaluation.
+2025/10/08 04:19:16 wazuh-modulesd:syscollector: INFO: Evaluation finished.
+2025/10/08 05:19:22 wazuh-modulesd:syscollector: INFO: Starting evaluation.
+2025/10/08 07:07:03 sca: INFO: Starting Security Configuration Assessment scan.
+2025/10/08 07:07:05 wazuh-db: INFO: Created Global database backup "backup/db/global.db-backup-2025-10-08-07:07:03.gz"
+2025/10/08 07:07:05 wazuh-db: INFO: Deleted Global database backup: "backup/db/global.db-backup-2025-10-05-06:32:09.gz"
+2025/10/08 07:07:06 sca: INFO: Starting evaluation of policy: '/var/ossec/ruleset/sca/cis_amazon_linux_2023.yml'
+2025/10/08 07:07:10 wazuh-modulesd:syscollector: INFO: Evaluation finished.
+2025/10/08 07:07:22 sca: INFO: Evaluation finished for policy '/var/ossec/ruleset/sca/cis_amazon_linux_2023.yml'
+2025/10/08 07:07:22 sca: INFO: Security Configuration Assessment scan finished. Duration: 19 seconds.
+2025/10/08 08:07:11 wazuh-modulesd:syscollector: INFO: Starting evaluation.
+2025/10/08 08:07:15 wazuh-modulesd:syscollector: INFO: Evaluation finished.
