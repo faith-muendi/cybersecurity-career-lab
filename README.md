@@ -1,3 +1,4 @@
+<img width="640" height="480" alt="1docker_running" src="https://github.com/user-attachments/assets/19223dd9-0a5e-4147-a7d8-44f911cdda48" />
 # Cybersecurity Career Lab
 # 🛡️ Wazuh SOC Monitoring & Detection Project
 
@@ -41,7 +42,8 @@ The goal of this lab is to simulate enterprise-level SOC operations — detectin
 3. Custom rules are applied to detect failed SSH logins, privilege escalations, and file tampering.  
 4. All logs and alerts are stored in the `evidence/` directory for forensic review.
 
----
+---<img width="640" height="480" alt="2_agent_running" src="https://github.com/user-attachments/assets/a7ea1441-305e-4534-ab0f-eae173181d9b" />
+
 
 ## 🧾 Detection Scenarios
 - Failed SSH login attempts (Brute-force simulation)  
@@ -66,4 +68,5 @@ Certified SOC Analyst (EC-Council) | Ethical Hacker | Cybersecurity Specialist
 
 ---
 
+<img width="640" height="480" alt="3_evidence_folder" src="https://github.com/user-attachments/assets/42474913-0d93-4c93-a29c-09dbaa6956f8" />
 
